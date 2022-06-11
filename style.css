@@ -1,0 +1,175 @@
+body {
+     margin: 0px;
+     text-align: center;
+     background-color: #edf2f1;
+
+}
+
+.Top-container {
+     background-color: #E4F9F5;
+     padding-top: 30px;
+     position: relative;
+}
+
+
+h1 {
+     color: #66BfBf;
+     margin-bottom: 17px;
+     margin-top: 30px;
+     font-family: 'Sacramento', cursive;
+     font-size: 500%;
+
+}
+
+.mountain {
+     width: 600px;
+     
+}
+
+.cloud2 {
+     width: 175px;
+     height: 70.313px;
+     position: absolute;
+     bottom: 300px;
+     left: 200px;
+}
+
+.cloud1 {
+     width: 175px;
+     position: relative;
+     left: 300px;
+
+}
+
+.p1{
+     font-size: 30px;
+     color: #66BfBf;
+     margin-top: 0;
+     font-weight: 500;
+     font-family: 'Blaka', cursive;
+}
+.table1{
+     text-align: center;
+}
+.p2{
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 900;
+     line-height: 2;
+     width: 30%;
+     margin: auto;
+ }
+ h2{
+     color:#47B5FF;
+     font-family: 'Roboto', sans-serif;
+     font-size: xx-large;
+     font-weight: 600;
+     padding-bottom: 10px;
+     line-height: 2;
+     
+     
+ }
+ h3{
+     color: #646FD4;
+     
+ }
+ .skill-row{
+     width:50%;
+     line-height: 2;
+   margin: 100px auto;
+   text-align: left;
+ }
+ .code-image{
+     width: 180px;
+     float:left;
+     margin-right: 20px;
+     margin-top: 10px;
+ }
+ .chess-image{
+     width: 200px;
+     float: right;
+ }
+ .Bottom-container{
+     background-color: #66BfBf;
+     padding-bottom: 20px;
+     padding-top: 20px;
+     
+ }
+ .p3{
+     margin: auto;
+     color: #EAF6F6;
+     font-family: 'Roboto', sans-serif;
+     width: 20%;
+
+ }
+.footer-link1{
+     margin-right: 30px;
+
+}
+.footer-link2{
+     margin-right: 20px;
+     padding-top: 20px;
+}
+.footer-link3{
+     margin-left: 10px;
+}
+
+.Middle-container{
+     padding-top: 50px;
+}
+.profile-photo{
+     width:180px;
+     margin-right: 15px;
+     margin-top: 10px;
+}
+
+hr{
+     border: dotted #D3EBCD 6px;
+     border-bottom: none;
+     width: 5%;
+     margin: 80px auto;
+}
+.my-skills{
+     margin-bottom: 0px;
+}
+.abc{
+     padding-bottom: 50px;
+}
+.food{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.btn {
+     background: #11cdd4;
+     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+     background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+     background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+     background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+     background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+     -webkit-border-radius: 10;
+     -moz-border-radius: 10;
+     border-radius: 10px;
+     font-family: 'Roboto', sans-serif;
+     color: #ffffff;
+     font-size: 20px;
+     padding: 10px 20px 10px 20px;
+     text-decoration: none;
+   }
+   
+   .btn:hover {
+     background: #30e3cb;
+     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+     background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+     background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+     background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+     background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+     text-decoration: none;
+   }
+.footer-link1:hover{
+     color: #FCF8E8;
+}
+.footer-link2:hover{
+     color: #FCF8E8;
+}
+.footer-link3:hover{
+     color: #FCF8E8;
+}
